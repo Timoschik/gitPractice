@@ -1,4 +1,1 @@
-gitPractice
-===========
-
-my first repository for practice with github
+The second home work
